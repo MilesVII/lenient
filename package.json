@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.2.0",
+    "@tensorflow/tfjs-node": "^4.2.0",
+    "@tensorflow/tfjs-node-gpu": "^4.2.0",
+    "sharp": "^0.31.3"
+  }
+}
